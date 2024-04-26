@@ -1,1 +1,1 @@
-{"name":"AppCide","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"react-native":"0.74.0"}}
+{"name":"AppCide","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"node":"^22.0.0","react-native":"0.74.0"}}
